@@ -10,6 +10,23 @@ body {
   color: #FEF2BF;
 }
 
+.fix_text
+{ 
+  color: #FEF2BF;
+  background-color: brown;
+  border: 5px solid black;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: block;
+}
+
+.foot_text
+{
+  color: #FEF2BF;
+  font-size: large;
+}
+
 .container {
   display: block;
   width: 50%;
