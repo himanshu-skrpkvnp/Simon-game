@@ -3,6 +3,8 @@ var buttonColours = ["red", "blue", "green", "yellow"];
 var gamePattern = [];
 var userClickedPattern = [];
 
+
+// logic to chk whether game has started
 var started = false;
 var level = 0;
 
